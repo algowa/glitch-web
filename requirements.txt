@@ -1,4 +1,2 @@
 flask
-json
-logging
-random
+urllib3==1.26.6
